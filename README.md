@@ -4,3 +4,4 @@
 - [变量对象](/docs/variable-object.md)
 - [this](/docs/this.md)
 - [作用域链](/docs/scope-chain.md)
+- [functions](/docs/functions.md)
