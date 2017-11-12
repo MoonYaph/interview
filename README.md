@@ -5,3 +5,4 @@
 - [this](/docs/this.md)
 - [作用域链](/docs/scope-chain.md)
 - [functions](/docs/functions.md)
+- [closures](/docs/closures.md)
